@@ -8,11 +8,11 @@
 
   Let's say you got 78% in class that has the mean 37.07, standard deviation 23.2 and that particular class has 102 students. Then, if the random variable X indicates the score of another student, the probability of that student scoring higher than you would be:
   
-  <img src="https://latex.codecogs.com/svg.latex?P(X>78)" title="P(X>78)" />
+  <img src="https://latex.codecogs.com/svg.latex?P(X>78)" title="P(X>78)" style="background-color: white;" />
   
   In order to utilize the normal approximation in this you would need to first normalize the random variable:
   
-  <img src="https://latex.codecogs.com/svg.latex?P(()X-\mu)/\sigma&space;>&space;(78-\mu)/\sigma)" title="P(()X-\mu)/\sigma > (78-\mu)/\sigma)" />
+  <img src="https://latex.codecogs.com/svg.latex?P((X-\mu)/\sigma&space;>&space;(78-\mu)/\sigma)" title="P((X-\mu)/\sigma > (78-\mu)/\sigma)" />
   
   For this case mu would be 37.07 and sigma would be 23.2
   
